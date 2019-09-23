@@ -19,4 +19,4 @@ python 3.5
 https://github.com/jbhuang0604/StructCompletion/issues/new
 
 
-## CHANGED THIS PART
+## Hey there!
